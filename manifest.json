@@ -1,0 +1,1239 @@
+[
+  {
+    "num": 1,
+    "ua": "Атака титанів",
+    "covers": [
+      "01. Атака титанів - Attack on Titan.jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/01_S1. Атака титанів - Guren no Yumiya (S1 OP1).mp3",
+        "song": "Guren no Yumiya (S1 OP1)"
+      },
+      {
+        "file": "опенінг/01_S2. Атака титанів - Shinzou wo Sasageyo! (S2 OP1).mp3",
+        "song": "Shinzou wo Sasageyo! (S2 OP1)"
+      },
+      {
+        "file": "опенінг/01_S3. Атака титанів - Red Swan (S3 OP1).mp3",
+        "song": "Red Swan (S3 OP1)"
+      }
+    ]
+  },
+  {
+    "num": 2,
+    "ua": "Герої шести квітів",
+    "covers": [
+      "02. Герої шести квітів - Rokka -Braves of the Six Flowers-.jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/02. Герої шести квітів - Cry for the Truth (OP1).mp3",
+        "song": "Cry for the Truth (OP1)"
+      }
+    ]
+  },
+  {
+    "num": 3,
+    "ua": "Кіберпанк",
+    "covers": [
+      "03. Кіберпанк - Cyberpunk_ Edgerunners.jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/03. Кіберпанк - This Fffire (OP1).mp3",
+        "song": "This Fffire (OP1)"
+      }
+    ]
+  },
+  {
+    "num": 4,
+    "ua": "Принцеса Мононоке",
+    "covers": [
+      "04. Принцеса Мононоке - Princess Mononoke.jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/04. Принцеса Мононоке - Mononoke Hime (ED1).mp3",
+        "song": "Mononoke Hime (ED1)"
+      }
+    ]
+  },
+  {
+    "num": 5,
+    "ua": "Безхатній бог",
+    "covers": [
+      "05. Безхатній бог - Noragami.jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/05_S1. Безхатній бог - Goya no Machiawase (S1 OP1).mp3",
+        "song": "Goya no Machiawase (S1 OP1)"
+      },
+      {
+        "file": "опенінг/05_S2. Безхатній бог - Kyouran Hey Kids!! (S2 OP1).mp3",
+        "song": "Kyouran Hey Kids!! (S2 OP1)"
+      }
+    ]
+  },
+  {
+    "num": 6,
+    "ua": "Твоє ім'я",
+    "covers": [
+      "06. Твоє ім'я - Your Name..png"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/06. Твоє ім'я - Yume Tourou (OP1).mp3",
+        "song": "Yume Tourou (OP1)"
+      }
+    ]
+  },
+  {
+    "num": 7,
+    "ua": "Мандрівний замок",
+    "covers": [
+      "07. Мандрівний замок - Howl‘s Moving Castle.jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/07. Мандрівний замок - Merry-Go-Round of Life.mp3",
+        "song": "Merry-Go-Round of Life"
+      }
+    ]
+  },
+  {
+    "num": 8,
+    "ua": "Привид у латах",
+    "covers": [
+      "08. Привид у латах - Ghost in the Shell.png"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/08. Привид у латах (1 частина) - Making of a Cyborg (OP1).mp3",
+        "song": "Making of a Cyborg (OP1)"
+      }
+    ]
+  },
+  {
+    "num": 9,
+    "ua": "Переродження: життя з нуля у іншому світі",
+    "covers": [
+      "09_S1. Переродження_ життя з нуля у іншому світі - Re_ZERO -Starting Life in Another World- (S1).jpg",
+      "09_S2. Переродження_ життя з нуля у іншому світі - Re_ZERO -Starting Life in Another World- Season 2 (S2).jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/09_S1. Переродження_ життя з нуля у іншому світі - Redo (S1 OP1).mp3",
+        "song": "Redo (S1 OP1)"
+      },
+      {
+        "file": "опенінг/09_S2. Переродження_ життя з нуля у іншому світі - Realize (S2 OP1).mp3",
+        "song": "Realize (S2 OP1)"
+      }
+    ]
+  },
+  {
+    "num": 10,
+    "ua": "Шарлотта",
+    "covers": [
+      "10. Шарлотта - Charlotte.jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/10. Шарлотта - Bravely You (OP1).mp3",
+        "song": "Bravely You (OP1)"
+      }
+    ]
+  },
+  {
+    "num": 11,
+    "ua": "Магічна битва",
+    "covers": [
+      "11_S1. Магічна битва - JUJUTSU KAISEN (S1).jpg",
+      "11_S2. Магічна битва - JUJUTSU KAISEN Season 2 (S2).jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/11_S1. Магічна битва - Kaikai Kitan (S1 OP1).mp3",
+        "song": "Kaikai Kitan (S1 OP1)"
+      },
+      {
+        "file": "опенінг/11_S2. Магічна битва - Ao no Sumika (S2 OP1).mp3",
+        "song": "Ao no Sumika (S2 OP1)"
+      }
+    ]
+  },
+  {
+    "num": 12,
+    "ua": "Реінкарнація безробітного",
+    "covers": [
+      "12. Реінкарнація безробітного - Mushoku Tensei_ Jobless Reincarnation.jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/12_S1. Реінкарнація безробітного - Tabibito no Uta (S1 OP1).mp3",
+        "song": "Tabibito no Uta (S1 OP1)"
+      },
+      {
+        "file": "опенінг/12_S2. Реінкарнація безробітного - spiral (S2 OP1).mp3",
+        "song": "spiral (S2 OP1)"
+      }
+    ]
+  },
+  {
+    "num": 13,
+    "ua": "Синій екзорцист",
+    "covers": [
+      "13_S1. Синій екзорцист - Blue Exorcist (S1).jpg",
+      "13_S2. Синій екзорцист - Blue Exorcist_ Kyoto Saga (S2).jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/13_S1. Синій екзорцист - CORE PRIDE (S1 OP1).mp3",
+        "song": "CORE PRIDE (S1 OP1)"
+      },
+      {
+        "file": "опенінг/13_S2. Синій екзорцист - Itteki no Eikyou (S2 OP1).mp3",
+        "song": "Itteki no Eikyou (S2 OP1)"
+      },
+      {
+        "file": "опенінг/13_S3. Синій екзорцист - Eye's Sentry (S3 OP1).mp3",
+        "song": "Eye's Sentry (S3 OP1)"
+      }
+    ]
+  },
+  {
+    "num": 14,
+    "ua": "Дитя погоди",
+    "covers": [
+      "14. Дитя погоди - Weathering With You.png"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/14. Дитя погоди - Daijoubu (Movie edit) (ED1).mp3",
+        "song": "Daijoubu (Movie edit) (ED1)"
+      }
+    ]
+  },
+  {
+    "num": 15,
+    "ua": "Крізь сльози я прикидаюся кішкою",
+    "covers": [
+      "15. Крізь сльози я прикидаюся кішкою - A Whisker Away.png"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/15. Крізь сльози я прикидаюся кішкою - Hana ni Bourei (ED1).mp3",
+        "song": "Hana ni Bourei (ED1)"
+      }
+    ]
+  },
+  {
+    "num": 16,
+    "ua": "Ісекайна сестричка б'є раз",
+    "covers": [
+      "16. Ісекайна сестричка б'є раз - My One-Hit Kill Sister.jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/16. Ісекайна сестричка б'є раз - Karei One Turn (OP1).mp3",
+        "song": "Karei One Turn (OP1)"
+      }
+    ]
+  },
+  {
+    "num": 17,
+    "ua": "Детектив мільйонер: баланс невичерпний",
+    "covers": [
+      "17. Детектив мільйонер_ баланс невичерпний - The Millionaire Detective - Balance_ UNLIMITED.png"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/17. Детектив мільйонер_ баланс невичерпний - NAVIGATOR (OP1).mp3",
+        "song": "NAVIGATOR (OP1)"
+      }
+    ]
+  },
+  {
+    "num": 18,
+    "ua": "Бродячі пси літературні генії",
+    "covers": [
+      "18_S1. Бродячі пси літературні генії - Bungo Stray Dogs (S1).jpg",
+      "18_S2. Бродячі пси літературні генії - Bungo Stray Dogs 2 (S2).jpg",
+      "18_S3. Бродячі пси літературні генії - Bungo Stray Dogs 3 (S3).jpg",
+      "18_S4. Бродячі пси літературні генії - Bungo Stray Dogs 4 (S4).jpg",
+      "18_S5. Бродячі пси літературні генії - Bungo Stray Dogs 5 (S5).jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/18_S1. Бродячі пси літературні генії - Trash Candy (S1 OP1).mp3",
+        "song": "Trash Candy (S1 OP1)"
+      },
+      {
+        "file": "опенінг/18_S2. Бродячі пси літературні генії - Reason Living (S2 OP1).mp3",
+        "song": "Reason Living (S2 OP1)"
+      },
+      {
+        "file": "опенінг/18_S3. Бродячі пси літературні генії - Setsuna no Ai (S3 OP1).mp3",
+        "song": "Setsuna no Ai (S3 OP1)"
+      }
+    ]
+  },
+  {
+    "num": 19,
+    "ua": "Сім'я шпигуна",
+    "covers": [
+      "19. Сім'я шпигуна - SPY x FAMILY.jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/19_S1. Сім'я шпигуна - Mixed Nuts (S1 OP1).mp3",
+        "song": "Mixed Nuts (S1 OP1)"
+      },
+      {
+        "file": "опенінг/19_S2. Сім'я шпигуна - Kura Kura (S2 OP1).mp3",
+        "song": "Kura Kura (S2 OP1)"
+      }
+    ]
+  },
+  {
+    "num": 20,
+    "ua": "Волейбол",
+    "covers": [
+      "20. Волейбол - HAIKYU!!.png"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/20_S1. Волейбол - Imagination (S1 OP1).mp3",
+        "song": "Imagination (S1 OP1)"
+      },
+      {
+        "file": "опенінг/20_S2. Волейбол - I'm A Believer (S2 OP1).mp3",
+        "song": "I'm A Believer (S2 OP1)"
+      },
+      {
+        "file": "опенінг/20_S3. Волейбол - Hikari Are (S3 OP1).mp3",
+        "song": "Hikari Are (S3 OP1)"
+      }
+    ]
+  },
+  {
+    "num": 21,
+    "ua": "Ґрімґар із ілюзій та попелу",
+    "covers": [
+      "21. Ґрімґар із ілюзій та попелу - Grimgar of Fantasy and Ash.jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/21. Ґрімґар із ілюзій та попелу - Knew day (OP1).mp3",
+        "song": "Knew day (OP1)"
+      }
+    ]
+  },
+  {
+    "num": 22,
+    "ua": "Дитина Улюбленця",
+    "covers": [
+      "22_S1. Дитина Улюбленця - OSHI NO KO (S1).png",
+      "22_S2. Дитина Улюбленця - OSHI NO KO Season 2 (S2).jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/22_S1. Дитина Улюбленця - Idol (S1 OP1).mp3",
+        "song": "Idol (S1 OP1)"
+      },
+      {
+        "file": "опенінг/22_S2. Дитина Улюбленця - Fatal (S2 OP1).mp3",
+        "song": "Fatal (S2 OP1)"
+      }
+    ]
+  },
+  {
+    "num": 23,
+    "ua": "Невже шукати дівчину в підземеллі неправильно?",
+    "covers": [
+      "23_S1. Невже шукати дівчину в підземеллі неправильно_ - Is It Wrong to Try to Pick Up Girls in a Dungeon_ (S1).jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/23_S1. Невже шукати дівчину в підземеллі неправильно_ - Hey World (S1 OP1).mp3",
+        "song": "Hey World (S1 OP1)"
+      }
+    ]
+  },
+  {
+    "num": 24,
+    "ua": "Патріот Моріарті",
+    "covers": [
+      "24. Патріот Моріарті - Moriarty the Patriot.jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/24_S1. Патріот Моріарті - DYING WISH (S1 OP1).mp3",
+        "song": "DYING WISH (S1 OP1)"
+      },
+      {
+        "file": "опенінг/24_S2. Патріот Моріарті - TWISTED HEARTS (S2 OP1).mp3",
+        "song": "TWISTED HEARTS (S2 OP1)"
+      }
+    ]
+  },
+  {
+    "num": 25,
+    "ua": "Сасакі та Міяно",
+    "covers": [
+      "25. Сасакі та Міяно - Sasaki and Miyano.jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/25. Сасакі та Міяно - Mabataki (OP1).mp3",
+        "song": "Mabataki (OP1)"
+      }
+    ]
+  },
+  {
+    "num": 26,
+    "ua": "Скейт: Безкінечність",
+    "covers": [
+      "26. Скейт_ Безкінечність - SK8 the Infinity.png"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/26. Скейт_ Безкінечність - Paradise (OP1).mp3",
+        "song": "Paradise (OP1)"
+      }
+    ]
+  },
+  {
+    "num": 27,
+    "ua": "Ґівен",
+    "covers": [
+      "27. Ґівен - given.jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/27. Ґівен - Kizuato (OP1).mp3",
+        "song": "Kizuato (OP1)"
+      }
+    ]
+  },
+  {
+    "num": 28,
+    "ua": "Вільний",
+    "covers": [
+      "28_S1. Вільний - Free! -Iwatobi Swim Club- (S1).png",
+      "28_S2. Вільний - Free! -Eternal Summer- (S2).png"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/28_S1. Вільний - Rage on (S1 OP1).mp3",
+        "song": "Rage on (S1 OP1)"
+      },
+      {
+        "file": "опенінг/28_S2. Вільний - Dried Up Youthful Fame (S2 OP1).mp3",
+        "song": "Dried Up Youthful Fame (S2 OP1)"
+      }
+    ]
+  },
+  {
+    "num": 29,
+    "ua": "Майстер демонічного культу",
+    "covers": [
+      "29_S1. Майстер демонічного культу - The Founder of Diabolism (S1).jpg",
+      "29_S2. Майстер демонічного культу - The Founder of Diabolism 2 (S2).png"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/29_S1. Майстер демонічного культу - Zui Meng Qianchen (S1 OP1).mp3",
+        "song": "Zui Meng Qianchen (S1 OP1)"
+      },
+      {
+        "file": "опенінг/29_S2. Майстер демонічного культу - Zui Meng Qian Chen (S2 OP1).mp3",
+        "song": "Zui Meng Qian Chen (S2 OP1)"
+      }
+    ]
+  },
+  {
+    "num": 30,
+    "ua": "Загроза для хлопця No. 1",
+    "covers": [
+      "30. Загроза для хлопця No. 1 - DAKAICHI -I'm being harassed by the sexiest man of the year-.jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/30. Загроза для хлопця No. 1 - Fukanzen Monologue (OP1).mp3",
+        "song": "Fukanzen Monologue (OP1)"
+      }
+    ]
+  },
+  {
+    "num": 31,
+    "ua": "Незнайомець на узбережжі",
+    "covers": [
+      "31. Незнайомець на узбережжі - The Stranger by the Shore.jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/31. Незнайомець на узбережжі - Zokkon (ED1).mp3",
+        "song": "Zokkon (ED1)"
+      }
+    ]
+  },
+  {
+    "num": 32,
+    "ua": "Юрі на льоду",
+    "covers": [
+      "32. Юрі на льоду - Yuri!!! on ICE.png"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/32. Юрі на льоду - History Maker (OP1).mp3",
+        "song": "History Maker (OP1)"
+      }
+    ]
+  },
+  {
+    "num": 33,
+    "ua": "Співуча пташка крильцями не тріпоче: Збираються хмари",
+    "covers": [
+      "33. Співуча пташка крильцями не тріпоче_ Збираються хмари - Twittering Birds Never Fly_ The Clouds Gather.png"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/33. Співуча пташка крильцями не тріпоче_ Збираються хмари - Moratorium (ED1).mp3",
+        "song": "Moratorium (ED1)"
+      }
+    ]
+  },
+  {
+    "num": 34,
+    "ua": "Hikara be my light",
+    "covers": [
+      "34. Hikara be my light.jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/34. Hikara be my light - Hikari ~ be my light.mp3",
+        "song": "Hikari ~ be my light"
+      }
+    ]
+  },
+  {
+    "num": 35,
+    "ua": "Останній серафим",
+    "covers": [
+      "35. Останній серафим - Seraph of the End_ Vampire Reign.png"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/35_S1. Останній серафим - X.U. (S1 OP1).mp3",
+        "song": "X.U. (S1 OP1)"
+      },
+      {
+        "file": "опенінг/35_S2. Останній серафим - Two souls -toward the truth- (S2 OP1).mp3",
+        "song": "Two souls -toward the truth- (S2 OP1)"
+      }
+    ]
+  },
+  {
+    "num": 36,
+    "ua": "Мемуари Ванітаса",
+    "covers": [
+      "36. Мемуари Ванітаса - The Case Study of Vanitas.jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/36_S1. Мемуари Ванітаса - Sora to Utsuro (S1 OP1).mp3",
+        "song": "Sora to Utsuro (S1 OP1)"
+      },
+      {
+        "file": "опенінг/36_S2. Мемуари Ванітаса - Your Name (S2 OP1).mp3",
+        "song": "Your Name (S2 OP1)"
+      }
+    ]
+  },
+  {
+    "num": 37,
+    "ua": "Однокласники",
+    "covers": [
+      "37. Однокласники - Doukyuusei -Classmates-.jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/37. Однокласники - Doukyuusei.mp3",
+        "song": "Doukyuusei"
+      }
+    ]
+  },
+  {
+    "num": 38,
+    "ua": "Так, ні, можливо",
+    "covers": [
+      "38. Так, ні, можливо - Yes, No, or Maybe_.jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/38. Так, ні, можливо - Sekai to Kakurenbo.mp3",
+        "song": "Sekai to Kakurenbo"
+      }
+    ]
+  },
+  {
+    "num": 39,
+    "ua": "Рибка-бананка",
+    "covers": [
+      "39. Рибка-бананка - BANANA FISH.jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/39. Рибка-бананка - found & lost (OP1).mp3",
+        "song": "found & lost (OP1)"
+      }
+    ]
+  },
+  {
+    "num": 40,
+    "ua": "Туалетний привид Ханако",
+    "covers": [
+      "40. Туалетний привид Ханако - Toilet-bound Hanako-kun.jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/40. Туалетний привид Ханако - No.7 (OP1).mp3",
+        "song": "No.7 (OP1)"
+      }
+    ]
+  },
+  {
+    "num": 41,
+    "ua": "Моя академія героїв",
+    "covers": [
+      "41_S1. Моя академія героїв - My Hero Academia (S1).jpg",
+      "41_S2. Моя академія героїв - My Hero Academia Season 2 (S2).png",
+      "41_S3. Моя академія героїв - My Hero Academia Season 3 (S3).jpg",
+      "41_S4. Моя академія героїв - My Hero Academia Season 4 (S4).png",
+      "41_S5. Моя академія героїв - My Hero Academia Season 5 (S5).jpg",
+      "41_S6. Моя академія героїв - My Hero Academia Season 6 (S6).jpg",
+      "41_S7. Моя академія героїв - My Hero Academia Season 7 (S7).jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/41_S1. Моя академія героїв - The Day (S1 OP1).mp3",
+        "song": "The Day (S1 OP1)"
+      },
+      {
+        "file": "опенінг/41_S2. Моя академія героїв - Peace Sign (S2 OP1).mp3",
+        "song": "Peace Sign (S2 OP1)"
+      },
+      {
+        "file": "опенінг/41_S3. Моя академія героїв - ODD FUTURE (S3 OP1).mp3",
+        "song": "ODD FUTURE (S3 OP1)"
+      }
+    ]
+  },
+  {
+    "num": 42,
+    "ua": "Ательє часу",
+    "covers": [
+      "42_S1. Ательє часу - Link Click (S1).png",
+      "42_S2. Ательє часу - Link Click Season 2 (S2).jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/42_S1. Ательє часу - Dive Back In Time (S1 OP1).mp3",
+        "song": "Dive Back In Time (S1 OP1)"
+      },
+      {
+        "file": "опенінг/42_S2. Ательє часу - VORTEX (S2 OP1).mp3",
+        "song": "VORTEX (S2 OP1)"
+      }
+    ]
+  },
+  {
+    "num": 43,
+    "ua": "Сервамп",
+    "covers": [
+      "43. Сервамп - SERVAMP.jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/43. Сервамп - Deal with (OP1).mp3",
+        "song": "Deal with (OP1)"
+      }
+    ]
+  },
+  {
+    "num": 44,
+    "ua": "Татусі мимоволі",
+    "covers": [
+      "44. Татусі мимоволі - Buddy Daddies.jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/44. Татусі мимоволі - SHOCK! (OP1).mp3",
+        "song": "SHOCK! (OP1)"
+      }
+    ]
+  },
+  {
+    "num": 45,
+    "ua": "Машл: магія і м'язи",
+    "covers": [
+      "45_S1. Машл_ магія і м'язи - MASHLE_ MAGIC AND MUSCLES (S1).png",
+      "45_S2. Машл_ магія і м'язи - MASHLE_ MAGIC AND MUSCLES Season 2 (S2).jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/45_S1. Машл_ магія і м'язи - Knock Out (S1 OP1).mp3",
+        "song": "Knock Out (S1 OP1)"
+      },
+      {
+        "file": "опенінг/45_S2. Машл_ магія і м'язи - Bling-Bang-Bang-Born (S2 OP1).mp3",
+        "song": "Bling-Bang-Bang-Born (S2 OP1)"
+      }
+    ]
+  },
+  {
+    "num": 46,
+    "ua": "Убивця гоблінів",
+    "covers": [
+      "46_S1. Убивця гоблінів - GOBLIN SLAYER (S1).jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/46_S1. Убивця гоблінів - Rightfully (S1 OP1).mp3",
+        "song": "Rightfully (S1 OP1)"
+      }
+    ]
+  },
+  {
+    "num": 47,
+    "ua": "Монолог травниці",
+    "covers": [
+      "47_S1. Монолог травниці - The Apothecary Diaries (S1).jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/47_S1. Монолог травниці - Hana ni Natte (S1 OP1).mp3",
+        "song": "Hana ni Natte (S1 OP1)"
+      }
+    ]
+  },
+  {
+    "num": 48,
+    "ua": "Фрірен: продовження подорожі",
+    "covers": [
+      "48. Фрірен_ продовження подорожі - Frieren_ Beyond Journey’s End.jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/48. Фрірен_ продовження подорожі - Yuusha (OP1).mp3",
+        "song": "Yuusha (OP1)"
+      }
+    ]
+  },
+  {
+    "num": 49,
+    "ua": "Зом 100: сотня справ які треба зробити перш ніж стати зомбаком",
+    "covers": [
+      "49. Зом 100_ сотня справ які треба зробити перш ніж стати зомбаком - Zom 100_ Bucket List of the Dead.png"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/49. Зом 100 - Song of the Dead (OP1).mp3",
+        "song": "Song of the Dead (OP1)"
+      }
+    ]
+  },
+  {
+    "num": 50,
+    "ua": "Злощасне життя псионіка Сайкі",
+    "covers": [
+      "50_S1. Злощасне життя псионіка Сайкі - The Disastrous Life of Saiki K. (S1).jpg",
+      "50_S2. Злощасне життя псионіка Сайкі - The Disastrous Life of Saiki K. Season 2 (S2).jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/50_S1. Злощасне життя псионіка Сайкі - Seishun wa Zankoku ja nai (S1 OP1).mp3",
+        "song": "Seishun wa Zankoku ja nai (S1 OP1)"
+      },
+      {
+        "file": "опенінг/50_S2. Злощасне життя псионіка Сайкі - Ψlent Prisoner (S2 OP1).mp3",
+        "song": "Ψlent Prisoner (S2 OP1)"
+      }
+    ]
+  },
+  {
+    "num": 51,
+    "ua": "Чорна конюшина",
+    "covers": [
+      "51. Чорна конюшина - Black Clover.png"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/51. Чорна конюшина - Haruka Mirai (OP1).mp3",
+        "song": "Haruka Mirai (OP1)"
+      }
+    ]
+  },
+  {
+    "num": 52,
+    "ua": "Кохання на кінчиках пальців",
+    "covers": [
+      "52. Кохання на кінчиках пальців - A Sign of Affection.jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/52. Кохання на кінчиках пальців - Yuki no Oto (OP1).mp3",
+        "song": "Yuki no Oto (OP1)"
+      }
+    ]
+  },
+  {
+    "num": 53,
+    "ua": "Вихідний пана Лиходія",
+    "covers": [
+      "53. Вихідний пана Лиходія - Mr. Villain's Day Off.jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/53. Вихідний пана Лиходія - Yuuho (OP1).mp3",
+        "song": "Yuuho (OP1)"
+      }
+    ]
+  },
+  {
+    "num": 54,
+    "ua": "Зона 6",
+    "covers": [
+      "54. Зона 6 - No.6.jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/54. Зона 6 - Spell (OP1).mp3",
+        "song": "Spell (OP1)"
+      }
+    ]
+  },
+  {
+    "num": 55,
+    "ua": "Рон Камонаші. Божевільний детектив",
+    "covers": [
+      "55. Рон Камонаші. Божевільний детектив - Ron Kamonohashi's Forbidden Deductions.jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/55. Рон Камонаші. Божевільний детектив - Ikenai fool logic (OP1).mp3",
+        "song": "Ikenai fool logic (OP1)"
+      }
+    ]
+  },
+  {
+    "num": 56,
+    "ua": "Обіцяний неверленд",
+    "covers": [
+      "56_S1. Обіцяний неверленд - The Promised Neverland (S1).jpg",
+      "56_S2. Обіцяний неверленд - The Promised Neverland Season 2 (S2).jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/56_S1. Обіцяний неверленд - Touch Off (S1 OP1).mp3",
+        "song": "Touch Off (S1 OP1)"
+      },
+      {
+        "file": "опенінг/56_S2. Обіцяний неверленд - Identity (S2 OP1).mp3",
+        "song": "Identity (S2 OP1)"
+      }
+    ]
+  },
+  {
+    "num": 57,
+    "ua": "Тільки я візьму новий рівень",
+    "covers": [
+      "57. Тільки я візьму новий рівень - Solo Leveling.png"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/57. Тільки я візьму новий рівень - LEveL (OP1).mp3",
+        "song": "LEveL (OP1)"
+      }
+    ]
+  },
+  {
+    "num": 58,
+    "ua": "Благословення небожителів",
+    "covers": [
+      "58_S1. Благословення небожителів - Heaven Official's Blessing (S1).jpg",
+      "58_S2. Благословення небожителів - Heaven Official's Blessing Season 2 (S2).jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/58_S1. Благословення небожителів - Wu Bie (S1).mp3",
+        "song": "Wu Bie (S1)"
+      },
+      {
+        "file": "опенінг/58_S2. Благословення небожителів - Lian Cheng Ci (S2).mp3",
+        "song": "Lian Cheng Ci (S2)"
+      }
+    ]
+  },
+  {
+    "num": 59,
+    "ua": "Мін'йон (2023)",
+    "covers": [
+      "59. Мін'йон - Mignon.png"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/59. Мін'йон (2023) - Mignon Theme.mp3",
+        "song": "Mignon Theme"
+      }
+    ]
+  },
+  {
+    "num": 60,
+    "ua": "Так складно покохати отаку",
+    "covers": [
+      "60. Так складно покохати отаку - Wotakoi_ Love is Hard for Otaku.png"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/60. Так складно покохати отаку - Fiction (OP1).mp3",
+        "song": "Fiction (OP1)"
+      }
+    ]
+  },
+  {
+    "num": 61,
+    "ua": "Backflip",
+    "covers": [
+      "61. Backflip - Backflip!!.png"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/61. Backflip - Seishun no Enbu (OP1).mp3",
+        "song": "Seishun no Enbu (OP1)"
+      }
+    ]
+  },
+  {
+    "num": 62,
+    "ua": "Клас убивць",
+    "covers": [
+      "62. Клас убивць - Assassination Classroom.jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/62_S1. Клас убивць - Seishun Satsubatsu-ron (S1 OP1).mp3",
+        "song": "Seishun Satsubatsu-ron (S1 OP1)"
+      },
+      {
+        "file": "опенінг/62_S2. Клас убивць - QUESTION (S2 OP1).mp3",
+        "song": "QUESTION (S2 OP1)"
+      }
+    ]
+  },
+  {
+    "num": 63,
+    "ua": "Вітролом",
+    "covers": [
+      "63. Вітролом - WIND BREAKER.jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/63. Вітролом - Zettai Reido (OP1).mp3",
+        "song": "Zettai Reido (OP1)"
+      }
+    ]
+  },
+  {
+    "num": 64,
+    "ua": "Кайджю номер 8",
+    "covers": [
+      "64. Кайджю номер 8 - Kaiju No. 8.jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/64. Кайджю номер 8 - Abyss (OP1).mp3",
+        "song": "Abyss (OP1)"
+      }
+    ]
+  },
+  {
+    "num": 65,
+    "ua": "Того літа",
+    "covers": [
+      "65. Того літа - The Summer.jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/65. Того літа - That Summer Theme.mp3",
+        "song": "That Summer Theme"
+      }
+    ]
+  },
+  {
+    "num": 66,
+    "ua": "Наруто",
+    "covers": [
+      "66. Наруто - Naruto.jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/66. Наруто - R★O★C★K★S (OP1).mp3",
+        "song": "R★O★C★K★S (OP1)"
+      }
+    ]
+  },
+  {
+    "num": 67,
+    "ua": "Велика дерейнджеризація",
+    "covers": [
+      "67. Велика дерейнджеризація - Go! Go! Loser Ranger!.jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/67. Велика дерейнджеризація - Jikai Yokoku (OP1).mp3",
+        "song": "Jikai Yokoku (OP1)"
+      }
+    ]
+  },
+  {
+    "num": 68,
+    "ua": "Медуза не вміє плавати вночі",
+    "covers": [
+      "68. Медуза не вміє плавати вночі - Jellyfish Can’t Swim in the Night.jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/68. Медуза не вміє плавати вночі - Irodori (OP1).mp3",
+        "song": "Irodori (OP1)"
+      }
+    ]
+  },
+  {
+    "num": 69,
+    "ua": "Клинок, що знищує демонів",
+    "covers": [
+      "69. Клинок, що знищує демонів - Demon Slayer_ Kimetsu no Yaiba.jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/69_S1. Клинок, що знищує демонів - Gurenge (S1 OP1).mp3",
+        "song": "Gurenge (S1 OP1)"
+      },
+      {
+        "file": "опенінг/69_S2. Клинок, що знищує демонів - Zankyou Zanka (S2 OP1).mp3",
+        "song": "Zankyou Zanka (S2 OP1)"
+      },
+      {
+        "file": "опенінг/69_S3. Клинок, що знищує демонів - Kizuna no Kiseki (S3 OP1).mp3",
+        "song": "Kizuna no Kiseki (S3 OP1)"
+      }
+    ]
+  },
+  {
+    "num": 70,
+    "ua": "Мисливець × Мисливець",
+    "covers": [
+      "70. Мисливець × Мисливець - Hunter x Hunter (2011).png"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/70. Мисливець × Мисливець - departure! (OP1).mp3",
+        "song": "departure! (OP1)"
+      }
+    ]
+  },
+  {
+    "num": 71,
+    "ua": "Dr. Stone",
+    "covers": [
+      "71. Dr. Stone - Dr. STONE.jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/71_S1. Dr. Stone - Good Morning World! (S1 OP1).mp3",
+        "song": "Good Morning World! (S1 OP1)"
+      },
+      {
+        "file": "опенінг/71_S2. Dr. Stone - Rakuen (S2 OP1).mp3",
+        "song": "Rakuen (S2 OP1)"
+      },
+      {
+        "file": "опенінг/71_S3. Dr. Stone - Wasuregataki (S3 OP1).mp3",
+        "song": "Wasuregataki (S3 OP1)"
+      }
+    ]
+  },
+  {
+    "num": 72,
+    "ua": "Про рух землі",
+    "covers": [
+      "72. Про рух землі - Orb_ On the Movements of the Earth.jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/72. Про рух землі - Kaijuu (OP1).mp3",
+        "song": "Kaijuu (OP1)"
+      }
+    ]
+  },
+  {
+    "num": 73,
+    "ua": "Дандадан",
+    "covers": [
+      "73_S1. Дандадан - DAN DA DAN (S1).jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/73_S1. Дандадан - Otonoke (S1 OP1).mp3",
+        "song": "Otonoke (S1 OP1)"
+      }
+    ]
+  },
+  {
+    "num": 74,
+    "ua": "Літо, коли помер Хікару",
+    "covers": [
+      "74. Літо, коли помер Хікару - The Summer Hikaru Died.jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/74. Літо, коли помер Хікару - Saikai (OP1).mp3",
+        "song": "Saikai (OP1)"
+      }
+    ]
+  },
+  {
+    "num": 75,
+    "ua": "Підземелля смакоти",
+    "covers": [
+      "75. Підземелля смакоти - Delicious in Dungeon.jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/75. Підземелля смакоти - Sleep Walking Orchestra (OP1).mp3",
+        "song": "Sleep Walking Orchestra (OP1)"
+      }
+    ]
+  },
+  {
+    "num": 76,
+    "ua": "Людина бензопила",
+    "covers": [
+      "76. Людина бензопила - Chainsaw Man.png"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/76. Людина бензопила - KICK BACK (OP1).mp3",
+        "song": "KICK BACK (OP1)"
+      }
+    ]
+  },
+  {
+    "num": 77,
+    "ua": "Санда",
+    "covers": [
+      "77. Санда - SANDA.jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/77. Санда - Adult Chick Children (OP1).mp3",
+        "song": "Adult Chick Children (OP1)"
+      }
+    ]
+  },
+  {
+    "num": 78,
+    "ua": "Постарайся! Накамуро!!!",
+    "covers": [
+      "78. Постарайся! Накамуро!!! - Go For It, Nakamura-kun!!.jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/78. Постарайся! Накамуро!!! - Shunpatsuteki ni Koi Shiyou (OP1).mp3",
+        "song": "Shunpatsuteki ni Koi Shiyou (OP1)"
+      }
+    ]
+  },
+  {
+    "num": 79,
+    "ua": "Пекельний рай",
+    "covers": [
+      "79. Пекельний рай - Hell’s Paradise.jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/79. Пекельний рай - W●RK (OP1).mp3",
+        "song": "W●RK (OP1)"
+      }
+    ]
+  },
+  {
+    "num": 80,
+    "ua": "Форма голосу",
+    "covers": [
+      "80. Форма голосу - A Silent Voice.jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/80. Форма голосу - My Generation (OP1).mp3",
+        "song": "My Generation (OP1)"
+      }
+    ]
+  },
+  {
+    "num": 81,
+    "ua": "Ванпачмен",
+    "covers": [
+      "81_S1. Ванпачмен - One-Punch Man (S1).jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/81_S1. Ванпачмен - THE HERO !! ~Okoreru Kobushi ni Hi wo Tsukero~ (S1 OP1).mp3",
+        "song": "THE HERO !! ~Okoreru Kobushi ni Hi wo Tsukero~ (S1 OP1)"
+      }
+    ]
+  },
+  {
+    "num": 82,
+    "ua": "Ґачіакута",
+    "covers": [
+      "82. Ґачіакута - Gachiakuta.jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/82. Ґачіакута - HUGs (OP1).mp3",
+        "song": "HUGs (OP1)"
+      }
+    ]
+  },
+  {
+    "num": 83,
+    "ua": "Шлюбний токсин",
+    "covers": [
+      "83. Шлюбний токсин - MARRIAGETOXIN.jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/83. Шлюбний токсин - Kill or Kiss (OP1).mp3",
+        "song": "Kill or Kiss (OP1)"
+      }
+    ]
+  },
+  {
+    "num": 84,
+    "ua": "Ця порцелянова лялечка закохалася",
+    "covers": [
+      "84. Ця порцелянова лялечка закохалася - My Dress-Up Darling.jpg"
+    ],
+    "openings": [
+      {
+        "file": "опенінг/84. Ця порцелянова лялечка закохалася - San San Days (OP1).mp3",
+        "song": "San San Days (OP1)"
+      }
+    ]
+  }
+]
